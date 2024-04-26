@@ -1,0 +1,3 @@
+A random youtube sample of gameplay just to understand what I was going after.  The entire game was done via simulated gameplay for us.  Navigating the menu, map navigation, gameplay of the fight.  We later dealt with the game being down and recovering, collection our winnings in game and posting to discord so we didnt have to interupt the playing to see how we had done.  We also track our win vs losses, to test new fight sequences effectiveness.  I know it's just a dumb game to play, but it was a fun way to learn new things, and be able to see what I could do.  This was all done in 2018-2020.
+
+https://youtu.be/asI8QTwISX4?t=120
